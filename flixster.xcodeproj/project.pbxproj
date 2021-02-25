@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7214439F25E8166100E949F5 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7214439E25E8166100E949F5 /* MovieDetailsViewController.swift */; };
+		721443A425E81FB600E949F5 /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721443A325E81FB600E949F5 /* MovieGridViewController.swift */; };
 		72D6A32E25DECE9D00DD95A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D6A32D25DECE9D00DD95A4 /* AppDelegate.swift */; };
 		72D6A33025DECE9D00DD95A4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D6A32F25DECE9D00DD95A4 /* SceneDelegate.swift */; };
 		72D6A33525DECE9D00DD95A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72D6A33325DECE9D00DD95A4 /* Main.storyboard */; };
@@ -46,6 +47,7 @@
 		65B5352D79869C597AA63DE1 /* Pods-flixsterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flixsterTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-flixsterTests/Pods-flixsterTests.release.xcconfig"; sourceTree = "<group>"; };
 		703FD896072FE3DCE29D6FF4 /* Pods-flixsterUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flixsterUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-flixsterUITests/Pods-flixsterUITests.release.xcconfig"; sourceTree = "<group>"; };
 		7214439E25E8166100E949F5 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
+		721443A325E81FB600E949F5 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
 		72D6A32A25DECE9D00DD95A4 /* flixster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flixster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72D6A32D25DECE9D00DD95A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		72D6A32F25DECE9D00DD95A4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 				72D6A32D25DECE9D00DD95A4 /* AppDelegate.swift */,
 				72D6A32F25DECE9D00DD95A4 /* SceneDelegate.swift */,
 				72D6A33325DECE9D00DD95A4 /* Main.storyboard */,
+				721443A325E81FB600E949F5 /* MovieGridViewController.swift */,
 				72D6A37025DEE39100DD95A4 /* MovieCell.swift */,
 				72D6A33625DECE9F00DD95A4 /* Assets.xcassets */,
 				72D6A33825DECE9F00DD95A4 /* LaunchScreen.storyboard */,
@@ -390,6 +393,7 @@
 				72D6A33025DECE9D00DD95A4 /* SceneDelegate.swift in Sources */,
 				72D6A37125DEE39100DD95A4 /* MovieCell.swift in Sources */,
 				72D6A36425DED5EE00DD95A4 /* MoviesViewController.swift in Sources */,
+				721443A425E81FB600E949F5 /* MovieGridViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
