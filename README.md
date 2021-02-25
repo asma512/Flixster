@@ -1,4 +1,5 @@
 
+
 ## Flix Part 2
 
 ### User Stories
@@ -13,12 +14,10 @@
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/QUgYPYl.gif"
-width=250><br>
+<img src="https://i.imgur.com/nDaQytO.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
-
 
 
 
